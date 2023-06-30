@@ -5,7 +5,7 @@
 ![image](https://github.com/Mod4Real2/Mod4Real2.github.io/assets/138172371/675bc77c-115c-40c1-8388-7be34970e4f1)
 
 
-| [𝙂𝘼𝙈𝙀 𝙎𝙊𝘾𝙄𝘼𝙇𝙎](https://mod4real1.github.io/) | [𝙈𝘼𝙄𝙉 𝙋𝘼𝙂𝙀](https://mod4real.github.io/) | [𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙄𝙉𝙁𝙊](https://mod4real3.github.io/) | 
+| [𝙂𝘼𝙈𝙀 𝙎𝙊𝘾𝙄𝘼𝙇𝙎](https://mod4real1.github.io/) | [(𝙈𝘼𝙄𝙉) (𝙋𝘼𝙂𝙀)](https://mod4real.github.io/) | [𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙄𝙉𝙁𝙊](https://mod4real3.github.io/) | 
 
 ----------------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@
 ![image](https://github.com/Mod4Real2/Mod4Real2.github.io/assets/138172371/f933d20e-73d5-443d-b929-bed254fcd0f9)
 
 
-| [𝙈𝘼𝙄𝙉 𝙋𝘼𝙂𝙀](https://mod4real.github.io/) | [𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙄𝙉𝙁𝙊](https://mod4real3.github.io/) | [𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊](https://mod4real6.github.io/) | 
+| [𝙈𝙔 𝙎𝘾𝙍𝙄𝙋𝙏𝙎](https://mod4real4.github.io/) | [𝙊𝙏𝙃𝙀𝙍 𝙎𝘾𝙍𝙄𝙋𝙏𝙎](https://mod4real5.github.io/) | [𝙈𝙊𝙍𝙀 𝙄𝙉𝙁𝙊](https://mod4real6.github.io/) | 
 
 ----------------------------------------------------------------------------------
 
